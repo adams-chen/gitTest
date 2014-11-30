@@ -1,0 +1,449 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ph",
+				"photoSrc"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"a",
+				"attrs"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"my",
+				"myAppModule"
+			],
+			[
+				"ang",
+				"angular"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"m",
+				"myApp"
+			],
+			[
+				"sc",
+				"scope"
+			],
+			[
+				"fir",
+				"firstName"
+			],
+			[
+				"pan",
+				"padding"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"st",
+				"list-style"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bar",
+				"border-radius"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"tim",
+				"setTimeout"
+			],
+			[
+				"cl",
+				"clearRect"
+			],
+			[
+				"dr",
+				"draw"
+			],
+			[
+				"d",
+				"drawPoints"
+			],
+			[
+				"alpha",
+				"alpha0"
+			],
+			[
+				"lin",
+				"drawLine"
+			],
+			[
+				"can",
+				"canvasId"
+			],
+			[
+				"canva",
+				"canvasId"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"ren",
+				"renderRadius"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bo",
+				"border-left"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"border",
+				"border-right"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"s",
+				"list-style"
+			],
+			[
+				"backgron",
+				"background-color"
+			],
+			[
+				"boor",
+				"border-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"Snippet: html",
+				"Snippet: html"
+			],
+			[
+				"Snippet: ht",
+				"Snippet: html"
+			],
+			[
+				"Snippet: htm",
+				"Snippet: html"
+			],
+			[
+				"Snippet: h",
+				"Snippet: html"
+			],
+			[
+				"html",
+				"Snippet: html"
+			]
+		],
+		"width": 296.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"refreshbrower",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib;",
+			"import urllib.request"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/licong/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/licong/Library/Application Support/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/Users/licong/html/ng2.html",
+		"/Users/licong/html/js/ng2.js",
+		"/Users/licong/html/ng6.html",
+		"/Users/licong/html/ng91.html",
+		"/Users/licong/html/ng9.html",
+		"/Users/licong/html/DI.html",
+		"/Users/licong/html/defer.html",
+		"/Users/licong/html/js/defer.js",
+		"/Users/licong/html/bs3.html",
+		"/Users/licong/html/js/calc.js",
+		"/Users/licong/html/css/calc.css",
+		"/Users/licong/html/javascrip/test.js",
+		"/Users/licong/html/j1.html",
+		"/Users/licong/html/famous.html",
+		"/Users/licong/html/data/data.php",
+		"/Users/licong/html/05.html",
+		"/Users/licong/html/06.html",
+		"/Users/licong/html/js/myclock.js",
+		"/Users/licong/Documents/java/apache-tomcat-8.0.12/webapps/examples/01.html",
+		"/Users/licong/html/02.html",
+		"/Users/licong/html/javascrip/coolclock.js",
+		"/Users/licong/html/03.html",
+		"/Users/licong/html/clock.html",
+		"/Users/licong/html/css/styles.css",
+		"/Users/licong/Documents/IWDW14/83/info83.txt",
+		"/Users/licong/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/licong/Library/Application Support/Sublime Text 3/Packages/User/HTML.sublime-settings",
+		"/Users/licong/02.html",
+		"/Users/licong/Documents/java/apache-tomcat-8.0.12/conf/web.xml"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">\n",
+			"clockTr",
+			"blue",
+			"orgList",
+			"organization",
+			"ewq"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"organizations"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/html/calc.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
